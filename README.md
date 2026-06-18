@@ -2,6 +2,10 @@
 
 Gleaner is a highly modular, multi-board job scraper and aggregation pipeline. It enables developers, recruiters, and job seekers to query multiple job boards concurrently, deduplicate and filter the results using custom matching strategies, and write the cleaned listings to a local CSV file or publish them directly to a Google Sheet.
 
+
+> [!NOTE]
+> For a detailed, step-by-step setup and search execution guide for specific job roles (like Data Scientist, Data Analyst, or AI Engineer), please refer to the [User Manual](file:///c:/My%20Projects/Job%20Scraping/user_manual.md).
+
 ---
 
 ## Features
