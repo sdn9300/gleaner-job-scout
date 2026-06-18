@@ -1,0 +1,12 @@
+boards:
+  - naukri
+  - remoteok
+  - wellfound
+  - indeed
+
+limits:
+  default: 100
+
+logging:
+  level: INFO
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

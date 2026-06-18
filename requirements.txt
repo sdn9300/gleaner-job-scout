@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+lxml
+pyyaml
+python-dotenv
+gspread
+google-auth
+firecrawl-py
