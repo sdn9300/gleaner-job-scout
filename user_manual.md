@@ -1,7 +1,6 @@
 # User Manual: How to Find Jobs with Gleaner
 
-This manual describes how to use **Gleaner** to automatically find and aggregate job openings for roles like **Data Scientist**, **Data Analyst**, or **AI Engineer**. 
-
+This manual describes how to use **Gleaner** to automatically find and aggregate job openings for specific job roles.
 Using Gleaner, you can run a simple command that gathers jobs from Naukri, RemoteOK, Indeed, and Wellfound, and exports them directly into a local Excel-compatible file (CSV) or a Google Sheet.
 
 ---
