@@ -4,7 +4,7 @@ Gleaner is a highly modular, multi-board job scraper and aggregation pipeline. I
 
 
 > [!NOTE]
-> For a detailed, step-by-step setup and search execution guide, please refer to the [User Manual](file:///c:/My%20Projects/Job%20Scraping/user_manual.md).
+> For a detailed, step-by-step setup and search execution guide, please refer to the [User Manual](https://github.com/sdn9300/gleaner-job-scout/blob/main/user_manual.md).
 
 ---
 
